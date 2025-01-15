@@ -1,0 +1,7 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\desafio-target\desafio-target\bin\Debug\desafio-target.exe.config
+C:\Users\c-gas\OneDrive\Documentos\DEV\desafio-target\desafio-target\bin\Debug\desafio-target.exe
+C:\Users\c-gas\OneDrive\Documentos\DEV\desafio-target\desafio-target\bin\Debug\desafio-target.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\desafio-target\desafio-target\obj\Debug\desafio-target.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\desafio-target\desafio-target\obj\Debug\desafio-target.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\desafio-target\desafio-target\obj\Debug\desafio-target.exe
+C:\Users\c-gas\OneDrive\Documentos\DEV\desafio-target\desafio-target\obj\Debug\desafio-target.pdb
